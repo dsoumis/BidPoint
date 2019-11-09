@@ -1,0 +1,12 @@
+.itemsList{
+    margin-top: 40px;
+    position: relative;
+    min-height: 100vh;
+}
+
+.my-items{
+    margin-top: 10vh;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

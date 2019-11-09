@@ -1,0 +1,35 @@
+.buttonSubmit,.buttonRegister{
+    width: 100%;
+    padding: 15px;
+    background-color: #e6491e;
+    border: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-weight: bold;
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+.reg-username, .reg-password, .reg-repassword, .reg-name, .reg-surname, .reg-email, .reg-phone, .reg-address, .reg-taxnum, .reg-location, .reg-country {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #dddddd;
+    margin-bottom: 15px;
+    box-sizing:border-box;
+}
+
+.title-register-form{
+    text-align: center;
+    color: #4d4d4d;
+    font-size: 24px;
+    padding: 20px 0 20px 0;
+}
+
+.register-form{
+    width: 500px;
+    height: 453px;
+    margin: 0 auto;
+    font-family: Tahoma, Geneva, sans-serif;
+
+}
+

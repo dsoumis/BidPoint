@@ -1,0 +1,42 @@
+.search-by{
+    margin-top: 3vh;
+
+}
+
+.search-bar{
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 9px;
+    width: 500px;
+    border: 0;
+    margin-top: 50px;
+    background: #faf4e8;
+
+
+}
+.search-button{
+    font-size: 20px;
+    padding: 9px;
+    border-radius: 10px;
+    border: 0;
+
+}
+
+.search-by-bar{
+
+    font-size: 15px;
+    border-radius: 10px;
+    padding: 9px;
+    width: 300px;
+    border: 0;
+    background: #faf4e8;
+
+
+}
+.search-by-button{
+    font-size: 15px;
+    padding: 9px;
+    border-radius: 10px;
+    border: 0;
+
+}

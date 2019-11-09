@@ -1,0 +1,92 @@
+.itemPage{
+    margin-top: 8vh;
+    background-image: url("telitses.jpg");
+    font-family:'popins',sans-serif;
+
+}
+.details1{
+    margin-left: 19vh;
+    flex-direction: column;
+}
+
+.name {
+    width: 300px;
+    border: 2px solid #3b3e70;
+    border-radius: 5px;
+
+    background: #f5faff;
+    height:50px;
+}
+.item-f {
+    width: 200px;
+    border-radius: 5px;
+    box-shadow: 0 3px 3px #e2e2e2;
+    min-height:30px;
+    background: #f5faff;
+
+}
+.des {
+    width: 400px;
+    border-radius: 5px;
+    box-shadow: 0 3px 3px #e2e2e2;
+    background: #f5faff;
+
+
+}
+.time{
+    width: 250px;
+    border-radius: 5px;
+    box-shadow: 0 3px 3px #e2e2e2;
+    background: #f5faff;
+
+}
+.Bidders{
+    margin-top: 20vh;
+}
+.Bids{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;           /* if we make window smaller */
+}
+.bidders{
+    border-radius: 10px;
+    box-shadow: 0 5px 20px #4a4a4a;
+    margin:20px;
+    flex-direction: column;
+    justify-content: space-around;
+    background: #f5faff;
+    align-items: center;
+    min-width: 20%;
+}
+
+.user_buttons{
+    padding: 50px 0px 0px 0px;
+}
+.buttons_{
+    margin-top:20vh;
+    border: 2px solid #3b3e70;
+    background: transparent;
+    color: #3b3e70;
+    width: 250px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.offer-bar{
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 9px;
+    width: 500px;
+    border: 0;
+    margin-top: 20px;
+    background: #faf4e8;
+}
+.offer-button{
+    font-size: 20px;
+    padding: 9px;
+    border-radius: 10px;
+    border: 0;
+
+}
+

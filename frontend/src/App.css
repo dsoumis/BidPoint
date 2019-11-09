@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+nav{
+
+  height: 80px;
+  display: flex;
+  align-items: center;
+
+  justify-content: space-between;
+  background: #dbdbff;
+  color: #b4c0ff;
+  width: 100%;
+  font-family:'popins',sans-serif;
+
+}
+.nav-bar{
+  padding: 0;
+}
+.nav-logo{
+  float: left;
+  width: 10%;
+  position: relative;
+
+}
+.nav-links {
+  width: 30%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}

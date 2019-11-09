@@ -1,0 +1,22 @@
+.homepage{
+    min-height: 200vh;
+    position: relative;
+    background-image: url("telitses.jpg");
+    font-family:'popins',sans-serif;
+
+}
+
+.items{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;           /* if we make window smaller */
+
+
+}
+.items-list{
+    margin-top:20vh;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+}
